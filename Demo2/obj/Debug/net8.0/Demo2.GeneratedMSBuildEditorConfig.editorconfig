@@ -34,3 +34,12 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Class_Student/source/repos/Demo2/Demo2/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Class_Student/source/repos/Demo2/Demo2/Window1.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Class_Student/source/repos/Demo2/Demo2/Window2.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Class_Student/source/repos/Demo2/Demo2/Window3.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
